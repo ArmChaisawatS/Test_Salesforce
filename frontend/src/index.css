@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300&display=swap%27');
+
+*{
+font-family: 'Sarabun', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
